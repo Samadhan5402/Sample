@@ -20,6 +20,7 @@ public class Addition {
       int b1=sc.nextInt();
       int result = a1+b1;
       System.out.println("Addition is:-"+result);
+      System.out.println("samdhan albatte");
       
 	
 	}
